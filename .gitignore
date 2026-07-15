@@ -1,0 +1,13 @@
+# Big sample for problems
+*.zip
+
+# Answer for output-only problems
+!answer.zip
+
+# Executables
+*.exe
+*.out
+
+# VS Code files
+.vscode/*
+*.code-workspace
