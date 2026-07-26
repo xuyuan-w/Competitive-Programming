@@ -2,6 +2,14 @@
 
 Xuyuan's code collection for competitive programming, since 7/9/26.
 
+## TODOs
+
+I'm not in a rush to do these things, but I guess I will do them one day.
+
+- [ ] Move metadata like title and links of a problem to a JSON file.
+- [ ] Build a blog presenting the problems in this repo.
+- [ ] Make a CP code library of mine so that I can use them in CF contests.
+
 ## Problems
 
 This folder contains some problems I solved, or upsolved.
